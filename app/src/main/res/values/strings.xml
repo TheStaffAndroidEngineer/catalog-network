@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Common Goods</string>
+    <string name="refresh">Refresh</string>
+    <string name="load_more">Load more</string>
+    <string name="switch_a">Use account a</string>
+    <string name="switch_b">Use account b</string>
+</resources>
